@@ -1,0 +1,51 @@
+<!DOCTYPE html><html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>گیم بازار</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-color: #000;
+      color: #FFD700;
+      text-align: center;
+      padding: 2rem;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 1rem;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .game-box {
+      border: 2px solid #FFD700;
+      margin: 2rem auto;
+      padding: 1rem;
+      max-width: 600px;
+      border-radius: 10px;
+    }
+    footer {
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>گیم بازار</h1>
+    <p>دانلود بازی‌های اورجینال، اطلاعات کامل و فرم خرید</p>
+  </header>
+  <section class="game-box">
+    <h2>مثال: GTA V</h2>
+    <p>بازی جهان باز، با قابلیت دانلود نسخه اصلی و پشتیبانی پرداخت.</p>
+    <button style="padding: 0.5rem 1rem; background: #FFD700; border: none; border-radius: 5px; cursor: pointer;">دانلود</button>
+  </section>
+  <footer>
+    طراحی شده توسط Game Bazar | چت با ما فعال است
+  </footer>
+</body>
+</html>
